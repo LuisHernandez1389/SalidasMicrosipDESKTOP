@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QYSiBCJmM+JrWFY1xffw11GNOgfPtEe6L5w/xZpF7bNk2LX56NEY2Ayb/FP7QQQf23Y6je5S7JmR6ia8RXY1FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luilm\\source\\repos\\MiProyectoMicrosip\\MiProyectoMicrosip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luilm\\.nuget\\packages\\firebirdsql.data.firebirdclient\\10.3.1\\firebirdsql.data.firebirdclient.10.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
